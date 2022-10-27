@@ -14,6 +14,9 @@ int main()
     {
         cout<<"Poprawny PIN";
     }
-
+    else
+    {
+        cout<<"Niepoprawny PIN";
+    }
     return 0;
 }
